@@ -1,6 +1,6 @@
-“# aboutMe” 
+# aboutMe
 
-** Luca Fu ** 
+**Luca Fu** 
 
 1. I am a Junior in ECE 
 2. I'm interested in controls engineering 
